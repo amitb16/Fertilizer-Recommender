@@ -15,6 +15,5 @@ This project demonstrates my practical skills in Python programming, machine lea
 | **Big Data Concepts**    | Data-driven insights, ML model training on agricultural datasets  |
 | **API Integration**      | OpenWeatherMap API (for temperature, humidity, pressure, etc.)    |
 | **Model Serialization**  | Joblib (for saving trained models)                                |
-| **IDE / Environment**    | Jupyter Notebook / VS Code / Command Line (as applicable)         |
-| **OS Platform**          | Windows                                                           |
+| **IDE / Environment**    | Jupyter Notebook          |                                                           |
 | **Dataset Format**       | CSV (soil\_data.csv, crop\_yield\_data.csv, fertilizer\_data.csv) |
